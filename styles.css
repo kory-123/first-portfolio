@@ -85,3 +85,89 @@ button:hover{
     background-color: #0056b3;
     transform: scale3d(90);
 }
+
+@media screen and (max-width:320px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        opacity: 1;
+    }
+    .bar {
+        margin: 0;
+        padding: 0;
+    }
+    nav ul li{
+        margin: 0;
+    }
+    .nav-links {
+        margin: 0;
+    }
+    #Home {
+        margin-left: 0px;
+    }
+    input {
+        width: 90%;
+    }
+    textarea  {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:450px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        opacity: 1;
+    }
+    .bar {
+        margin: 0;
+        padding: 0;
+    }
+    nav ul li{
+        margin: 0;
+    }
+    .nav-links {
+        margin: 0;
+    }
+    #Home {
+        margin-left: 0px;
+    }
+    input {
+        width: 90%;
+    }
+    textarea  {
+        width: 90%;
+    }
+}
+@media screen and (max-width: 4260px){
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        opacity: 1;
+    }
+    .bar {
+        margin: 0;
+        padding: 0;
+    }
+    nav ul li{
+        margin: 0;
+    }
+    .nav-links {
+        margin: 0;
+    }
+    #Home {
+        margin-left: 0px;
+    }
+    input {
+        width: 90%;
+    }
+    textarea  {
+        width: 90%;
+    }
+}
